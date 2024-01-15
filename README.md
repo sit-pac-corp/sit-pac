@@ -1,0 +1,1 @@
+# NOTICE: I decided against doing this project in a 2-man group; This adds more overhead than value, and there's no time for extra team management. Repo is left here for issues with instructions only.
